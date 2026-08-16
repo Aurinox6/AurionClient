@@ -1,6 +1,6 @@
 # AurionClient
 
-Welcome to the official repository for the **AurionClient** modpack—a modpack created for anarchy servers like 2b2t and 6b6t!
+Welcome to the official repository for the **AurionClient** modpack—a modpack created for anarchy servers like 2b2t and 6b6t (based on meteor client) !
 
 ## General Information
 
@@ -66,6 +66,6 @@ This modpack includes a selection of mods to optimize performance, improve the i
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
